@@ -8,6 +8,7 @@ class InternetBankingCoreServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
+		//todo
 	}
 
 }
